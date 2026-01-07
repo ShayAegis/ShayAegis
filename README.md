@@ -4,7 +4,7 @@ Soy Kevin, Ingeniero Electrónico y Desarrollador de software apasionado por la 
 
 ###  Tecnologías que manejo:
 
-[![My Skills](https://skillicons.dev/icons?i=kotlin,python,cpp,bash,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,android,python,cpp,bash,linux)](https://skillicons.dev)
 
 - 🐍 **Python** – Desarrollo backend, APIs y automatización.  
 - 🤖 **Kotlin** – Desarrollo de apps Android.  
