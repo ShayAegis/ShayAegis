@@ -17,5 +17,6 @@ Soy Kevin, desarrollador apasionado por la tecnología y la programación. Me en
 - 💻 **C++** – Programación de microcontroladores y sistemas embebidos.
 
 ### 📫 Contáctame
-- [LinkedIn](https://www.linkedin.com/in/tu-perfil)  
+- [LinkedIn](https://www.linkedin.com/in/kevin-esteban-rinc%C3%B3n-moreno-2439a4267/)  
 - [Email](mailto:tuemail@ejemplo.com)
+
