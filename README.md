@@ -17,5 +17,5 @@ Soy Kevin, Ingeniero Electrónico y Desarrollador de software apasionado por la 
 
 ### 📫 Contáctame
 - [LinkedIn](https://www.linkedin.com/in/kevin-esteban-rinc%C3%B3n-moreno-2439a4267/)  
-- [Email](mailto:tuemail@ejemplo.com)
+- [Email](mailto:kevinrincon660@gmail.com)
 
